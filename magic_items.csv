@@ -1,0 +1,431 @@
+,name,type,rarity
+0,Adventurer's Ring,Ring,Common
+1,Armor of Gleaming,Armor,Common
+2,Bead of Nourishment,Wondrous Item,Common
+3,Bead of Refreshment,Wondrous Item,Common
+4,Boots of False Tracks,Wondrous Item,Common
+5,Candle of the Deep,Wondrous Item,Common
+6,Cast-Off Armor,Armor,Common
+7,Charlatan's Die,Wondrous Item,Common
+8,Cloak of Billowing,Wondrous Item,Common
+9,Cloak of Many Fashions,Wondrous Item,Common
+10,Clockwork Amulet,Wondrous Item,Common
+11,Clothes of Mending,Wondrous Item,Common
+12,Dark Shard Amulet,Wondrous Item,Common
+13,Dread Helm,Wondrous Item,Common
+14,Ear Horn of Hearing,Wondrous Item,Common
+15,Enduring Spellbook,Wondrous Item,Common
+16,Ersatz Eye,Wondrous Item,Common
+17,Hat of Vermin,Wondrous Item,Common
+18,Hat of Wizardry,Wondrous Item,Common
+19,Heward's Handy Spice Pouch,Wondrous Item,Common
+20,Horn of Silent Alarm,Wondrous Item,Common
+21,Instrument of Illusions,Wondrous Item,Common
+22,Instrument of Scribing,Wondrous Item,Common
+23,Lock of Trickery,Wondrous Item,Common
+24,Manifold Tool,Wondrous Item,Common
+25,Mask of Changed Appearance,Wondrous Item,Common
+26,Mechanical Wonder,Wondrous Item,Common
+27,Moon-Touched Sword,Weapon,Common
+28,Mystery Key,Wondrous Item,Common
+29,Mythallar Bracelet,Wondrous Item,Common
+30,Orb of Direction,Wondrous Item,Common
+31,Orb of Time,Wondrous Item,Common
+32,Perfume of Bewitching,Wondrous Item,Common
+33,Pipe of Smoke Monsters,Wondrous Item,Common
+34,Pole of Angling,Wondrous Item,Common
+35,Pole of Collapsing,Wondrous Item,Common
+36,Pot of Awakening,Wondrous Item,Common
+37,Potion of Climbing,Potion,Common
+38,Potion of Comprehension,Potion,Common
+39,Potion of Healing,Potion,Common
+40,Prosthetic Limb,Wondrous Item,Common
+41,Rival Coin,Wondrous Item,Common
+42,Rope of Mending,Wondrous Item,Common
+43,Ruby of the War Mage,Wondrous Item,Common
+44,Shield of Expression,Armor,Common
+45,Silvered Weapon,Weapon,Common
+46,Smoldering Armor,Armor,Common
+47,Spell Scroll,Scroll,Common
+48,Staff of Adornment,Staff,Common
+49,Staff of Birdcalls,Staff,Common
+50,Staff of Flowers,Staff,Common
+51,Sylvan Talon,Weapon,Common
+52,Talking Doll,Wondrous Item,Common
+53,Tankard of Sobriety,Wondrous Item,Common
+54,Veteran's Cane,Wondrous Item,Common
+55,Walloping Ammunition,Weapon,Common
+56,Wand of Conducting,Wand,Common
+57,Wand of Pyrotechnics,Wand,Common
+58,Adamantine Armor,Armor,Uncommon
+59,Adamantine Weapon,Weapon,Uncommon
+60,Alchemy Jug,Wondrous Item,Uncommon
+61,"Ammunition, +1, +2, or +3",Weapon,Uncommon
+62,Amulet of Proof against Detection and Location,Wondrous Item,Uncommon
+63,Arcane Battery,Wondrous Item,Uncommon
+64,Baba Yaga's Dancing Broom,Wondrous Item,Uncommon
+65,Bag of Holding,Wondrous Item,Uncommon
+66,Bag of Tricks,Wondrous Item,Uncommon
+67,Boots of Elvenkind,Wondrous Item,Uncommon
+68,Boots of Striding and Springing,Wondrous Item,Uncommon
+69,Boots of the Winding Path,Wondrous Item,Uncommon
+70,Boots of the Winterlands,Wondrous Item,Uncommon
+71,Bracers of Archery,Wondrous Item,Uncommon
+72,Brooch of Shielding,Wondrous Item,Uncommon
+73,Broom of Flying,Wondrous Item,Uncommon
+74,Cap of Vanishing,Wondrous Item,Uncommon
+75,Cap of Water Breathing,Wondrous Item,Uncommon
+76,Circlet of Blasting,Wondrous Item,Uncommon
+77,Cloak of Elvenkind,Wondrous Item,Uncommon
+78,Cloak of Protection,Wondrous Item,Uncommon
+79,Cloak of the Manta Ray,Wondrous Item,Uncommon
+80,Decanter of Endless Water,Wondrous Item,Uncommon
+81,Deck of Illusions,Wondrous Item,Uncommon
+82,Driftglobe,Wondrous Item,Uncommon
+83,Dust of Disappearance,Wondrous Item,Uncommon
+84,Dust of Dryness,Wondrous Item,Uncommon
+85,Dust of Sneezing and Choking,Wondrous Item,Uncommon
+86,Elemental Gem,Wondrous Item,Uncommon
+87,Enspelled Armor,Armor,Uncommon
+88,Enspelled Staff,Staff,Uncommon
+89,Enspelled Weapon,Weapon,Uncommon
+90,Eversmoking Bottle,Wondrous Item,Uncommon
+91,Eyes of Charming,Wondrous Item,Uncommon
+92,Eyes of Minute Seeing,Wondrous Item,Uncommon
+93,Eyes of the Eagle,Wondrous Item,Uncommon
+94,Figurine of Wondrous Power,Wondrous Item,Uncommon
+95,Gauntlets of Ogre Power,Wondrous Item,Uncommon
+96,Gem of Brightness,Wondrous Item,Uncommon
+97,Gloves of Missile Snaring,Wondrous Item,Uncommon
+98,Gloves of Swimming and Climbing,Wondrous Item,Uncommon
+99,Gloves of Thievery,Wondrous Item,Uncommon
+100,Goggles of Night,Wondrous Item,Uncommon
+101,Hag Eye,Wondrous Item,Uncommon
+102,Harper Pin,Wondrous Item,Uncommon
+103,Hat of Disguise,Wondrous Item,Uncommon
+104,Hat of Vortexes,Wondrous Item,Uncommon
+105,Headband of Intellect,Wondrous Item,Uncommon
+106,Helm of Awareness,Wondrous Item,Uncommon
+107,Helm of Comprehending Languages,Wondrous Item,Uncommon
+108,Helm of Telepathy,Wondrous Item,Uncommon
+109,Immovable Rod,Rod,Uncommon
+110,Instrument of the Bards,Wondrous Item,Uncommon
+111,Javelin of Lightning,Weapon,Uncommon
+112,Keoghtom's Ointment,Wondrous Item,Uncommon
+113,Lantern of Revealing,Wondrous Item,Uncommon
+114,Mariner's Armor,Armor,Uncommon
+115,Mechanical Wonder,Wondrous Item,Uncommon
+116,Medallion of Thoughts,Wondrous Item,Uncommon
+117,Mind Sharpener,Ring,Uncommon
+118,Mithral Armor,Armor,Uncommon
+119,Nature's Mantle,Wondrous Item,Uncommon
+120,Necklace of Adaptation,Wondrous Item,Uncommon
+121,Oil of Slipperiness,Potion,Uncommon
+122,Pearl of Power,Wondrous Item,Uncommon
+123,Periapt of Health,Wondrous Item,Uncommon
+124,Periapt of Wound Closure,Wondrous Item,Uncommon
+125,Philter of Love,Potion,Uncommon
+126,Pipes of Haunting,Wondrous Item,Uncommon
+127,Pipes Of Pestilence,Wondrous Item,Uncommon
+128,Pipes of the Sewers,Wondrous Item,Uncommon
+129,Poison Soaked Kukri,Weapon,Uncommon
+130,Potion of Animal Friendship,Potion,Uncommon
+131,Potion of Fire Breath,Potion,Uncommon
+132,Potion of Giant Strength,Potion,Uncommon
+133,Potion of Growth,Potion,Uncommon
+134,Potion of Healing,Potion,Uncommon
+135,Potion of Poison,Potion,Uncommon
+136,Potion of Pugilism,Potion,Uncommon
+137,Potion of Resistance,Potion,Uncommon
+138,Potion of Water Breathing,Potion,Uncommon
+139,Quaal's Feather Token,Wondrous Item,Uncommon
+140,Quiver of Ehlonna,Wondrous Item,Uncommon
+141,Reliquary of Dawn,Wondrous Item,Uncommon
+142,Reliquary of Twilight,Wondrous Item,Uncommon
+143,Repeating Shot,Weapon,Uncommon
+144,Repulsion Shield,Armor,Uncommon
+145,Returning Weapon,Weapon,Uncommon
+146,Ring of Jumping,Ring,Uncommon
+147,Ring of Mind Shielding,Ring,Uncommon
+148,Ring of Swimming,Ring,Uncommon
+149,Ring of Warmth,Ring,Uncommon
+150,Ring of Water Walking,Ring,Uncommon
+151,Robe of Useful Items,Wondrous Item,Uncommon
+152,Rod of the Pact Keeper,Rod,Uncommon
+153,Rope of Climbing,Wondrous Item,Uncommon
+154,Saddle of the Cavalier,Wondrous Item,Uncommon
+155,Sending Stones,Wondrous Item,Uncommon
+156,Sentinel Shield,Armor,Uncommon
+157,"Shield, +1, +2, or +3",Armor,Uncommon
+158,Slippers of Spider Climbing,Wondrous Item,Uncommon
+159,Spell Scroll,Scroll,Uncommon
+160,Spell-Refueling Ring,Ring,Uncommon
+161,Spiked Shield,Armor,Uncommon
+162,Staff of the Adder,Staff,Uncommon
+163,Staff of the Python,Staff,Uncommon
+164,Stone of Good Luck (Luckstone),Wondrous Item,Uncommon
+165,Sword of Vengeance,Weapon,Uncommon
+166,Thayan Spell Tattoo,Wondrous Item,Uncommon
+167,Trident of Fish Command,Weapon,Uncommon
+168,Wand of Magic Detection,Wand,Uncommon
+169,Wand of Magic Missiles,Wand,Uncommon
+170,Wand of Secrets,Wand,Uncommon
+171,"Wand of the War Mage, +1, +2 or +3",Wand,Uncommon
+172,Wand of Web,Wand,Uncommon
+173,"Weapon, +1, +2 or +3",Weapon,Uncommon
+174,Weapon of Warning,Weapon,Uncommon
+175,Wind Fan,Wondrous Item,Uncommon
+176,Winged Boots,Wondrous Item,Uncommon
+177,Wraps of Unarmed Power,Wondrous Item,Uncommon
+178,"Ammunition, +1, +2, or +3",Weapon,Rare
+179,Amulet of Health,Wondrous Item,Rare
+180,"Armor, +1, +2, or +3",Armor,Rare
+181,Armor of Resistance,Armor,Rare
+182,Armor of Vulnerability,Armor,Rare
+183,Arrow-Catching Shield,Armor,Rare
+184,Bag of Beans,Wondrous Item,Rare
+185,Bead of Force,Wondrous Item,Rare
+186,Belt of Dwarvenkind,Wondrous Item,Rare
+187,Belt of Giant Strength,Wondrous Item,Rare
+188,Berserker Axe,Weapon,Rare
+189,Boots of Levitation,Wondrous Item,Rare
+190,Boots of Speed,Wondrous Item,Rare
+191,Bowl of Commanding Water Elementals,Wondrous Item,Rare
+192,Bracers of Defense,Wondrous Item,Rare
+193,Brazier of Commanding Fire Elementals,Wondrous Item,Rare
+194,Brooch of the Elements,Wondrous Item,Rare
+195,Cape of the Mountebank,Wondrous Item,Rare
+196,Censer of Controlling Air Elementals,Wondrous Item,Rare
+197,Chime of Opening,Wondrous Item,Rare
+198,Cloak of Displacement,Wondrous Item,Rare
+199,Cloak of the Bat,Wondrous Item,Rare
+200,Cube of Force,Wondrous Item,Rare
+201,Cube of Summoning,Wondrous Item,Rare
+202,Daern's Instant Fortress,Wondrous Item,Rare
+203,Dagger of Venom,Weapon,Rare
+204,Dazzling Weapon,Weapon,Rare
+205,Dimensional Shackles,Wondrous Item,Rare
+206,Dragon Slayer,Weapon,Rare
+207,Elixir of Health,Potion,Rare
+208,Elven Chain,Armor,Rare
+209,Enspelled Armor,Armor,Rare
+210,Enspelled Staff,Staff,Rare
+211,Enspelled Weapon,Weapon,Rare
+212,Figurine of Wondrous Power,Wondrous Item,Rare
+213,Flame Tongue,Weapon,Rare
+214,Folding Boat,Wondrous Item,Rare
+215,Fork of Eddy Summoning,Wondrous Item,Rare
+216,Gem of Seeing,Wondrous Item,Rare
+217,Giant Slayer,Weapon,Rare
+218,Glamoured Studded Leather,Armor,Rare
+219,Harper Pin,Wondrous Item,Rare
+220,Helm of Teleportation,Wondrous Item,Rare
+221,Heward's Handy Haversack,Wondrous Item,Rare
+222,Horn of Blasting,Wondrous Item,Rare
+223,Horn of Valhalla,Wondrous Item,Rare
+224,Horseshoes of Speed,Wondrous Item,Rare
+225,Instrument of the Bards,Wondrous Item,Rare
+226,Ioun Stone,Wondrous Item,Rare
+227,Iron Bands of Bilarro,Wondrous Item,Rare
+228,Mace of Disruption,Weapon,Rare
+229,Mace of Smiting,Weapon,Rare
+230,Mace of Terror,Weapon,Rare
+231,Magen Handbell,Wondrous Item,Rare
+232,Mantle of Spell Resistance,Wondrous Item,Rare
+233,Mechanical Wonder,Wondrous Item,Rare
+234,Mythallar Cloak,Wondrous Item,Rare
+235,Necklace of Fireballs,Wondrous Item,Rare
+236,Necklace of Prayer Beads,Wondrous Item,Rare
+237,Oil of Etherealness,Potion,Rare
+238,Periapt of Proof against Poison,Wondrous Item,Rare
+239,Portable Hole,Wondrous Item,Rare
+240,Potion of Clairvoyance,Potion,Rare
+241,Potion of Diminution,Potion,Rare
+242,Potion of Gaseous Form,Potion,Rare
+243,Potion of Giant Strength,Potion,Rare
+244,Potion of Healing,Potion,Rare
+245,Potion of Heroism,Potion,Rare
+246,Potion of Invisibility,Potion,Rare
+247,Potion of Invulnerability,Potion,Rare
+248,Potion of Mind Reading,Potion,Rare
+249,Quaal's Feather Token,Wondrous Item,Rare
+250,Ring of Animal Influence,Ring,Rare
+251,Ring of Evasion,Ring,Rare
+252,Ring of Feather Falling,Ring,Rare
+253,Ring of Free Action,Ring,Rare
+254,Ring of Protection,Ring,Rare
+255,Ring of Resistance,Ring,Rare
+256,Ring of Spell Storing,Ring,Rare
+257,Ring of the Ram,Ring,Rare
+258,Ring of X-ray Vision,Ring,Rare
+259,Robe of Eyes,Wondrous Item,Rare
+260,Rod of Rulership,Rod,Rare
+261,Rod of the Pact Keeper,Rod,Rare
+262,Rope of Entanglement,Wondrous Item,Rare
+263,Scroll of Protection,Scroll,Rare
+264,"Shield, +1, +2, or +3",Armor,Rare
+265,Shield of Missile Attraction,Armor,Rare
+266,Spell Scroll,Scroll,Rare
+267,Staff of Charming,Staff,Rare
+268,Staff of Swarming Insects,Staff,Rare
+269,Staff of the Woodlands,Staff>,Rare
+270,Staff of Withering,Staff,Rare
+271,Stone of Controlling Earth Elementals,Wondrous Item,Rare
+272,Sun Blade,Weapon,Rare
+273,Sword of Life Stealing,Weapon,Rare
+274,Sword of Wounding,Weapon,Rare
+275,Tentacle Rod,Rod,Rare
+276,Vicious Weapon,Weapon,Rare
+277,Wand of Binding,Wand,Rare
+278,Wand of Enemy Detection,Wand,Rare
+279,Wand of Fear,Wand,Rare
+280,Wand of Fireballs,Wand,Rare
+281,Wand of Lightning Bolts,Wand,Rare
+282,Wand of Paralysis,Wand,Rare
+283,"Wand of the War Mage, +1, +2 or +3",Wand,Rare
+284,Wand of Wonder,Wand,Rare
+285,"Weapon, +1, +2 or +3",Weapon,Rare
+286,Windskiff,Wondrous Item,Rare
+287,Wings of Flying,Wondrous Item,Rare
+288,Wraps of Unarmed Power,Wondrous Item,Rare
+289,"Ammunition, +1, +2, or +3",Weapon,Very Rare
+290,Ammunition of Slaying,Weapon,Very Rare
+291,Amulet of the Planes,Wondrous Item,Very Rare
+292,Animated Shield,Armor,Very Rare
+293,"Armor, +1, +2, or +3",Armor,Very Rare
+294,Bag of Devouring,Wondrous Item,Very Rare
+295,Belt of Giant Strength,Wondrous Item,Very Rare
+296,Candle of Invocation,Wondrous Item,Very Rare
+297,Carpet of Flying,Wondrous Item,Very Rare
+298,Cauldron of Rebirth,Wondrous Item,Very Rare
+299,Cloak of Arachnida,Wondrous Item,Very Rare
+300,Crystal Ball,Wondrous Item,Very Rare
+301,Dancing Sword,Weapon,Very Rare
+302,Demon Armor,Armor,Very Rare
+303,Dragon Scale Mail,Armor,Very Rare
+304,Dwarven Plate,Armor,Very Rare
+305,Dwarven Thrower,Weapon,Very Rare
+306,Efreeti Bottle,Wondrous Item,Very Rare
+307,Energy Bow,Weapon,Very Rare
+308,Enspelled Armor,Armor,Very Rare
+309,Enspelled Staff,Staff,Very Rare
+310,Enspelled Weapon,Weapon,Very Rare
+311,Executioner's Axe,Weapon,Very Rare
+312,Figurine of Wondrous Power,Wondrous Item,Very Rare
+313,Frost Brand,Weapon,Very Rare
+314,Hat of Many Spells,Wondrous Item,Very Rare
+315,Helm of Brilliance,Wondrous Item,Very Rare
+316,Horn of Valhalla,Wondrous Item,Very Rare
+317,Horseshoes of a Zephyr,Wondrous Item,Very Rare
+318,Instrument of the Bards,Wondrous Item,Very Rare
+319,Ioun Stone,Wondrous Item,Very Rare
+320,Lute of Thunderous Thumping,Weapon,Very Rare
+321,Manual of Bodily Health,Wondrous Item,Very Rare
+322,Manual of Gainful Exercise,Wondrous Item,Very Rare
+323,Manual of Golems,Wondrous Item,Very Rare
+324,Manual of Quickness of Action,Wondrous Item,Very Rare
+325,Mirror of Life Trapping,Wondrous Item,Very Rare
+326,Niko's Mace,Weapon,Very Rare
+327,Nine Lives Stealer,Weapon,Very Rare
+328,Nolzur's Marvelous Pigments,Wondrous Item,Very Rare
+329,Oathbow,Weapon,Very Rare
+330,Oil of Sharpness,Potion,Very Rare
+331,Potion of Flying,Potion,Very Rare
+332,Potion of Giant Strength,Potion,Very Rare
+333,Potion of Greater Invisibility,Potion,Very Rare
+334,Potion of Healing,Potion,Very Rare
+335,Potion of Longevity,Potion,Very Rare
+336,Potion of Speed,Potion,Very Rare
+337,Potion of Vitality,Potion,Very Rare
+338,Quarterstaff of the Acrobat,Weapon,Very Rare
+339,Ring of Regeneration,Ring,Very Rare
+340,Ring of Shooting Stars,Ring,Very Rare
+341,Ring of Telekinesis,Ring,Very Rare
+342,Robe of Scintillating Colors,Wondrous Item,Very Rare
+343,Robe of Stars,Wondrous Item,Very Rare
+344,Rod of Absorption,Rod,Very Rare
+345,Rod of Alertness,Rod,Very Rare
+346,Rod of Security,Rod,Very Rare
+347,Rod of the Pact Keeper,Rod,Very Rare
+348,Scimitar of Speed,Weapon,Very Rare
+349,"Shield, +1, +2, or +3",Armor,Very Rare
+350,Shield of the Cavalier,Armor,Very Rare
+351,Spell Scroll,Scroll,Very Rare
+352,Spellguard Shield,Armor,Very Rare
+353,Spirit Board,Wondrous Item,Very Rare
+354,Staff of Fire,Staff,Very Rare
+355,Staff of Frost,Staff,Very Rare
+356,Staff of Power,Staff,Very Rare
+357,Staff of Striking,Staff,Very Rare
+358,Staff of Thunder and Lightning,Staff,Very Rare
+359,Sword of Sharpness,Weapon,Very Rare
+360,Thunderous Greatclub,Weapon,Very Rare
+361,Tome of Clear Thought,Wondrous Item,Very Rare
+362,Tome of Leadership and Influence,Wondrous Item,Very Rare
+363,Tome of Understanding,Wondrous Item,Very Rare
+364,Wand of Polymorph,Wand,Very Rare
+365,"Wand of the War Mage, +1, +2 or +3",Wand,Very Rare
+366,"Weapon, +1, +2 or +3",Weapon,Very Rare
+367,Wraps of Unarmed Power,Wondrous Item,Very Rare
+368,Apparatus of Kwalish,Wondrous Item,Legendary
+369,"Armor, +1, +2, or +3",Armor,Legendary
+370,Armor of Invulnerability,Armor,Legendary
+371,Belt of Giant Strength,Wondrous Item,Legendary
+372,Cloak of Invisibility,Wondrous Item,Legendary
+373,Crystal Ball of Mind Reading,Wondrous Item,Legendary
+374,Crystal Ball of Telepathy,Wondrous Item,Legendary
+375,Crystal Ball of True Seeing,Wondrous Item,Legendary
+376,Cubic Gate,Wondrous Item,Legendary
+377,Deck of Many Things,Wondrous Item,Legendary
+378,Defender,Weapon,Legendary
+379,Efreeti Chain,Armor,Legendary
+380,Enspelled Armor,Armor,Legendary
+381,Enspelled Staff,Staff,Legendary
+382,Enspelled Weapon,Weapon,Legendary
+383,Hammer of Thunderbolts,Weapon,Legendary
+384,Holy Avenger,Wondrous Item,Legendary
+385,Horn of Valhalla,Wondrous Item,Legendary
+386,Instrument of the Bards,Wondrous Item,Legendary
+387,Ioun Stone,Wondrous Item,Legendary
+388,Iron Flask,Wondrous Item,Legendary
+389,Luck Blade,Weapon,Legendary
+390,Moonblade,Weapon,Legendary
+391,Plate Armor of Etherealness,Armor,Legendary
+392,Potion of Giant Strength,Potion,Legendary
+393,Ring of Djinni Summoning,Ring,Legendary
+394,Ring of Elemental Command,Ring,Legendary
+395,Ring of Invisibility,Ring,Legendary
+396,Ring of Spell Turning,Ring,Legendary
+397,Ring of Three Wishes,Ring,Legendary
+398,Robe of the Archmagi,Wondrous Item,Legendary
+399,Rod of Lordly Might,Rod,Legendary
+400,Rod of Resurrection,Rod,Legendary
+401,Scarab of Protection,Wondrous Item,Legendary
+402,Scroll of Titan Summoning,Scroll,Legendary
+403,Sovereign Glue,Wondrous Item,Legendary
+404,Spell Scroll,Scroll,Legendary
+405,Sphere of Annihilation,Wondrous Item,Legendary
+406,Staff of the Magi,Staff,Legendary
+407,Sword of Answering,Weapon,Legendary
+408,Talisman of Pure Good,Wondrous Item,Legendary
+409,Talisman of the Sphere,Wondrous Item,Legendary
+410,Talisman of Ultimate Evil,Wondrous Item,Legendary
+411,Tome of the Dragon,Wondrous Item,Legendary
+412,Tome of the Stilled Tongue,Wondrous Item,Legendary
+413,Universal Solvent,Wondrous Item,Legendary
+414,Vorpal Sword,Weapon,Legendary
+415,Well of Many Worlds,Wondrous Item,Legendary
+416,Axe of the Dwarvish Lords,Weapon,Artifact
+417,Blackrazor,Weapon,Artifact
+418,Book of Exalted Deeds,Wondrous Item,Artifact
+419,Book of Vile Darkness,Wondrous Item,Artifact
+420,Calimemnon Crystal,Wondrous Item,Artifact
+421,Crown Of Horns,Wondrous Item,Artifact
+422,Demonomicon of Iggwilv,Wondrous Item,Artifact
+423,Eye and Hand of Vecna,Wondrous Item,Artifact
+424,Orb of Damara,Wondrous Item,Artifact
+425,Orb of Dragonkind,Wondrous Item,Artifact
+426,Sword of Kas,Weapon,Artifact
+427,Wand of Orcus,Wand,Artifact
+428,Wave,Weapon,Artifact
+429,Whelm,Weapon,Artifact
